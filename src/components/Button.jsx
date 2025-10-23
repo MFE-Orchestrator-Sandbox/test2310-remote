@@ -11,7 +11,7 @@ export const Button = () => {
 				id="click-btn"
 				className="shared-btn"
 				onClick={() => setState((s) => s + 1)}>
-				Push me: {state}
+				Add sidro di mele: {state}
 			</button>
 		</div>
 	);
